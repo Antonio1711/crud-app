@@ -44,7 +44,7 @@ O Firebase Hosting é um recurso de hospedagem de conteúdo da Web de nível de 
 
 Link do projeto hospedado:
 
-[Crud]()
+[Crud](https://crud-app-ba514.web.app/)
 
 ##
 
