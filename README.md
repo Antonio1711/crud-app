@@ -40,6 +40,8 @@ Criamos uma lista de séries da [Netflix](https://www.netflix.com/br/):
 
 ### Hospedagem do projeto no Firebase
 
+![Firebase](https://img.shields.io/twitter/url?color=%23FFCA28&label=firebase&logo=firebase&logoColor=%23FFCA28&style=for-the-badge&url=https%3A%2F%2Fsimpleicons.org%2Ficons%2Ffirebase.svg)
+
 O Firebase Hosting é um recurso de hospedagem de conteúdo da Web de nível de produção para desenvolvedores. Com um único comando, é possível implantar apps da Web rapidamente e exibir conteúdo estático e dinâmico a uma rede de distribuição de conteúdo (CDN) global. Também é possível associar o Firebase Hosting ao Cloud Functions ou ao Cloud Run para criar e hospedar microsserviços no Firebase. Saiba mais sobre a [documentação](https://firebase.google.com/docs/hosting?hl=pt-br) do [Firebase](https://firebase.google.com/?hl=pt-br) 🔥
 
 Link do projeto hospedado:
@@ -50,5 +52,21 @@ Link do projeto hospedado:
 
 Fontes de pesquisa do projeto:
 
+Videos retirados do [canal no youtube](https://www.youtube.com/channel/UChspmksoHi3B9sKreATvpCA) do [Candra Kriswinarto](https://github.com/candraKriswinarto/). 💻👨‍💻👩‍💻
+
+![Youtube](https://img.shields.io/twitter/url?color=%23FF0000&label=youtube&logo=youtube&logoColor=%23FF0000&style=for-the-badge&url=https%3A%2F%2Fsimpleicons.org%2Ficons%2Fyoutube.svg)    ![Github](https://img.shields.io/twitter/url?color=%23181717&label=github&logo=github&logoColor=%23181717&style=for-the-badge&url=https%3A%2F%2Fsimpleicons.org%2Ficons%2Fgithub.svg)
+
 - [Video 1](https://www.youtube.com/watch?v=5KZ1XBcSaH4)
 - [Video 2](https://www.youtube.com/watch?v=_1QtdnqHq8I)
+
+##
+
+### Integrantes do grupo
+
+- [Antonio](https://github.com/Antonio1711)
+- [Athilas](https://github.com/Athilas-Silva)
+- [Caliu](https://github.com/caliusantos)
+- [Erica](https://github.com/EricaSantos-FullStack)
+- [Haile](https://github.com/hailemarcos)
+- [Roy](https://github.com/Roymp3)
+- [Victor](https://github.com/ViictorSR388)
