@@ -24,7 +24,7 @@ Em sistemas mais sofisticados, os dados do CRUD podem ser manipulados por outros
 
 Utilizando o [Figma](https://www.figma.com/) para o desenhar o formato do site.
 
-![wireframe](https://user-images.githubusercontent.com/71888055/117222522-00a59d80-ade2-11eb-8a8b-714f16390232.png)
+![wireframe](https://user-images.githubusercontent.com/71888055/117227094-70208a80-adec-11eb-96d1-b770f68abc16.png)
 
 Usando o [Trello](https://trello.com/pt-BR) para distribuição e organização de tarefas, com a metodologia [SCRUM](https://blog.contaazul.com/metodologia-scrum) para agilização do projeto.
 
@@ -32,9 +32,9 @@ Usando o [Trello](https://trello.com/pt-BR) para distribuição e organização 
 
 #### Imagem Final do projeto
 
-Criamos uma lista de jogos e consoles da [Nintendo](https://www.nintendo.com/)
+Criamos uma lista de séries da [Netflix](https://www.netflix.com/br/):
 
-![crud](https://user-images.githubusercontent.com/71888055/117223296-c0dfb580-ade3-11eb-8720-a471435ed72b.png)
+![crud](https://user-images.githubusercontent.com/71888055/117225988-02735f00-adea-11eb-8996-a479bcfedb24.png)
 
 ##
 
@@ -45,3 +45,10 @@ O Firebase Hosting é um recurso de hospedagem de conteúdo da Web de nível de 
 Link do projeto hospedado:
 
 [Crud]()
+
+##
+
+Fontes de pesquisa do projeto:
+
+- [Video 1](https://www.youtube.com/watch?v=5KZ1XBcSaH4)
+- [Video 2](https://www.youtube.com/watch?v=_1QtdnqHq8I)
